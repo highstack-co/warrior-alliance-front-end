@@ -2,6 +2,23 @@
   color: #ab353b;
 }
 
+@media only screen and (min-width: 1500px) {
+.b1-c3{
+  background-size:80%;}
+.b1{
+background-size:85%;
+  }
+}
+
+@media only screen and (min-width: 1800px{
+.b1-c3{
+background-size:90%;
+  }
+.b1{
+background-size:95%
+  }
+}
+
 .myh2{
 margin-right: auto;
 margin-bottom: 43px;
