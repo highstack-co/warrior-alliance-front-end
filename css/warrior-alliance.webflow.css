@@ -285,14 +285,13 @@
   bottom: auto;
   z-index: 3;
   width: 30%;
-  height: 850px;
-  max-width: 1028px;
-  min-width: 1028px;
+  height: 700px;
+  max-width: 800px;
+  min-width: 800px;
   margin-top: -1px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 19px;
-  padding-left: 0px;
+padding:40px;
   background-image: url('../images/Rectangle-466.png');
   background-position: 50% 0%;
   background-size: cover;
