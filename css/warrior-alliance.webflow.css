@@ -282,15 +282,15 @@ font-size:24px
   height: 850px;
   min-width: 600px;
   background-image: url('../images/women-rotate-2-1.svg');
-  background-position: 50% 50%;
-  background-size: 104%;
+  background-position: -30% 50%;
+  background-size: 70%;
   background-repeat: no-repeat;
 }
 
 .b1-c2 {
   position: absolute;
   left: 0%;
-  top: 0%;
+  top: 10%;
   right: 0%;
   bottom: auto;
   z-index: 3;
@@ -315,8 +315,8 @@ padding:40px;
   height: 850px;
   min-width: 600px;
   background-image: url('../images/males-rotate-1.svg');
-  background-position: 50% 50%;
-  background-size: 91%;
+  background-position: 130% 50%;
+  background-size: 65%;
   background-repeat: no-repeat;
 }
 
