@@ -2,6 +2,16 @@
   color: #ab353b;
 }
 
+.myh2{
+margin-right: auto;
+margin-bottom: 43px;
+margin-left: auto;
+font-family: Conquera-Bold, sans-serif;
+text-align: center;
+letter-spacing: -3px;
+font-size:24px
+}
+
 .div-block {
   display: -webkit-box;
   display: -webkit-flex;
@@ -5439,3 +5449,5 @@ padding:40px;
   font-style: normal;
   font-display: swap;
 }
+
+
