@@ -365,7 +365,7 @@ padding:40px;
 
 .box-form {
   max-width: 598px;
-  margin-top: 65px;
+  margin-top: -20px;
   margin-right: auto;
   margin-left: auto;
   font-family: Poppins, sans-serif;
@@ -3259,7 +3259,6 @@ padding:40px;
   margin-top: 31px;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 52px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -3274,6 +3273,39 @@ padding:40px;
   background-repeat: no-repeat, no-repeat;
   text-decoration: none;
   text-transform: uppercase;
+}
+.flex-element-3 {
+  flex: 3;
+}
+.flex-element-1 {
+  flex: 1;
+}
+.link-block-2-c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 90px;
+  max-width: 378px;
+  margin-top: 31px;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-image: url('../images/button2.svg');
+  background-position-y: 50%;
+  background-size: contain;
+  background-repeat: no-repeat, no-repeat;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: not-allowed;
 }
 
 .list-item-2 {
