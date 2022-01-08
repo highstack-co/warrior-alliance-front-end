@@ -2877,6 +2877,7 @@ padding:40px;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  z-index: 10;
 }
 
 .text-block-8-c21 {
