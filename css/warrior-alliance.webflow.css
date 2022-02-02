@@ -28,6 +28,7 @@ background-size:95%!important;
 .wrapper-c1.game-wrapper{
 flex-direction:column;
 align-items:center;
+padding-bottom:50px;
 }
 
 .myh2{
