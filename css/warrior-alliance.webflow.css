@@ -65,7 +65,7 @@ justify-content:space-between;
   background-color: #292929;
 }
 
-@media only screen and (min-width:840px)
+@media only screen and (max-width:840px)
 {
 .video-container{
 flex-direction:column!important;
