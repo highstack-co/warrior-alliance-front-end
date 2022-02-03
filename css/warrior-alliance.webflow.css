@@ -65,6 +65,20 @@ justify-content:space-between;
   background-color: #292929;
 }
 
+@media only screen and (min-width:840px)
+{
+.video-container{
+flex-direction:column!important;
+  }
+.gamevideo{
+margin:0px!important;
+  }
+}
+
+.gamevideo{
+margin:10px!important;
+}
+
 
 .video-container{
 width:100%;
